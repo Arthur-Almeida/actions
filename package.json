@@ -1,0 +1,23 @@
+{
+  "name": "actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Almeida/actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-Almeida/actions/issues"
+  },
+  "homepage": "https://github.com/Arthur-Almeida/actions#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
